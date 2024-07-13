@@ -1,0 +1,45 @@
+body{
+    padding: 12px;
+}
+
+h1{
+    text-align: center;
+    color: green;
+    font-family: sans-serif;
+}
+
+.flex-child-2
+{
+    width: 400px;
+    margin-left: -100px;
+}
+
+.flex-content{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2{
+    color: purple;
+    font-family: sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.bold{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.second-part{
+    max-width: 70%;
+    margin: 0 auto;
+}
