@@ -34,6 +34,10 @@ th, td{
     font-size: 25px;
 }
 
+th{
+    color: red;
+}
+
 .bold{
     font-weight: bold;
     font-family: sans-serif;
