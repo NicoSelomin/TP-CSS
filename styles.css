@@ -39,6 +39,11 @@ th, td{
     font-family: sans-serif;
 }
 
+
+.red-text{
+    color: red;
+}
+
 .second-part{
     max-width: 70%;
     margin: 0 auto;
